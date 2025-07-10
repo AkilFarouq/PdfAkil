@@ -1,0 +1,8 @@
+{
+  "name": "com.dmafitvr.pdfakil",
+  "version": "0.0.5",
+  "displayName": "PDF Akil",
+  "description": "PDF gen & manipulation tools for Unity",
+  "unity": "6000.0.38f1",
+  "author": { "name": "Akil Farouq" }
+}
